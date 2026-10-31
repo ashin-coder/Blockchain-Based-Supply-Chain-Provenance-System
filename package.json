@@ -1,0 +1,17 @@
+{
+  "name": "supply-chain-provenance",
+  "version": "0.1.0",
+  "description": "Blockchain-based supply chain provenance system (CSE 540 Project 1) - draft smart contracts",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@openzeppelin/contracts": "^5.1.0",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.17"
+  }
+}
