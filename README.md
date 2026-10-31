@@ -125,7 +125,7 @@ Each action will emit an event (`ProductRegistered`, `ShipmentStarted`, `Ownersh
 
 | Name | Role |
 |---|---|
-| Vibhu Bharwaj | Research & Smart Contract Development |
+| Vibhu Bhardwaj | Research & Smart Contract Development |
 | Ashin Kunjumon | Research & Smart Contract Development |
 | Riana Chatterjee | Frontend & User Interface |
 | Vineeth Subramaniam Jayasankar | Frontend & User Interface |
