@@ -107,7 +107,7 @@ npx hardhat compile
 | `recallProduct(productId, reason)` | Regulator | Recalls the product (final state) | Planned |
 | `verifyProduct(productId)` | Anyone | Returns `true` if the product is certified and not recalled | Planned |
 
-Planned functions already have their final signatures and comments describing their intended behaviour; for now they revert with `NotImplemented()`.
+Planned functions already have their final signatures and comments describing their intended behaviour, for now they revert with `NotImplemented()`.
 
 Each action will emit an event (`ProductRegistered`, `ShipmentStarted`, `OwnershipTransferred`, `ProductDelivered`, `ProductCertified`, `ProductRecalled`) to form a public audit trail.
 
